@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestCase_MoodAnalyser" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-26T18:12:35" hostname="DESKTOP-66R9L5R" time="0.003">
+<testsuite name="TestCase_MoodAnalyser" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-26T19:24:45" hostname="DESKTOP-66R9L5R" time="0.002">
   <properties/>
-  <testcase name="return_Happy_Mood" classname="TestCase_MoodAnalyser" time="0.003"/>
+  <testcase name="return_Happy_Mood" classname="TestCase_MoodAnalyser" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
